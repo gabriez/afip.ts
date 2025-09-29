@@ -4,7 +4,7 @@ Para permitir que los certificados accedan a un servicio web, es necesario crear
 
 Dentro de **WSASS - Autogestión Certificados Homologación**, la misma aplicación que utilizamos previamente para obtener el certificado de pruebas, selecciona **Crear autorización a servicio**.
 
-![Paso 1](/tutorial/tutorial_3_1.png)
+![Paso 1](../public/tutorial/tutorial_3_1.png)
 
 A continuación:
 
@@ -18,10 +18,10 @@ Una vez completados estos campos, haz clic en **Crear autorización de acceso**.
 
 Por ejemplo, para autorizar el acceso al servicio web de facturación electrónica, la configuración se vería de la siguiente manera:
 
-![Paso 2](/tutorial/tutorial_3_2.png)
+![Paso 2](../public/tutorial/tutorial_3_2.png)
 
 Luego, ve a la sección **Autorizaciones** para verificar que la autorización se ha creado correctamente.
 
-![Paso 3](/tutorial/tutorial_3_3.png)
+![Paso 3](../public/tutorial/tutorial_3_3.png)
 
 ¡Eso es todo! Ahora estás listo para utilizar el certificado con acceso autorizado al servicio web correspondiente.

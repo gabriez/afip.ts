@@ -37,16 +37,16 @@ Ahora, el archivo CSR está listo, y podemos proceder a la página de AFIP para 
 ### Paso 4 - Generación del Certificado (Cert)
 Dentro de tu escritorio de AFIP, accede a **«WSASS - Autogestión Certificados Homologación»**.
 
-![Paso 1](/tutorial/tutorial_2_1.png)
+![Paso 1](../public/tutorial/tutorial_2_1.png)
 
 Si no tienes esta aplicación en tu escritorio, consulta el tutorial **Cómo Habilitar el Administrador de Certificados de Pruebas**. Dentro de esta aplicación, selecciona **«Nuevo Certificado»**.
 
-![Paso 2](/tutorial/tutorial_2_2.png)
+![Paso 2](../public/tutorial/tutorial_2_2.png)
 
 En el campo **1. Nombre simbólico del DN**, ingresa el nombre que proporcionaste al certificado en el CSR. <br>
 En **2. Solicitud del certificado en formato PKCS#10**, pega el contenido de tu CSR y luego haz clic en **Crear DN y obtener certificado**. Por ejemplo:
 
-![Paso 2](/tutorial/tutorial_2_3.png)
+![Paso 2](../public/tutorial/tutorial_2_3.png)
 
 El certificado se generará a continuación. Debes guardarlo en tu computadora junto con la key para usarlo posteriormente en la biblioteca.
 

@@ -38,27 +38,27 @@ Ahora, el archivo CSR está listo, y podemos proceder a la página de AFIP para 
 ### Paso 4 - Generación del Certificado (Cert)
 Dentro de tu escritorio de AFIP, accede a **«Administración de Certificados Digitales»**.
 
-![Paso 1](/tutorial/tutorial_6_1.png)
+![Paso 1](../public/tutorial/tutorial_6_1.png)
 
 Si no tienes esta aplicación en tu escritorio, consulta el tutorial **Habilitar administrador de certificados de producción**. En caso de tener permiso para administrar las relaciones de otros contribuyentes, se te pedirá que elijas a quién deseas administrar.
 
-![Paso 2](/tutorial/tutorial_6_2.png)
+![Paso 2](../public/tutorial/tutorial_6_2.png)
 
 Dentro de esta aplicación, selecciona **«Agregar alias»**.
 
-![Paso 3](/tutorial/tutorial_6_3.png)
+![Paso 3](../public/tutorial/tutorial_6_3.png)
 
 En el campo **«Alias»**, coloca el nombre que proporcionaste al certificado en el CSR. Luego, haz clic en **Examinar** y selecciona el CSR que generaste anteriormente. Finalmente, presiona **«Agregar Alias»** y habrás obtenido tu certificado.
 
-![Paso 4](/tutorial/tutorial_6_4.png)
+![Paso 4](../public/tutorial/tutorial_6_4.png)
 
 Ahora, en la lista de Alias, selecciona **«ver»**.
 
-![Paso 5](/tutorial/tutorial_6_5.png)
+![Paso 5](../public/tutorial/tutorial_6_5.png)
 
 Luego, haz clic en el botón debajo de **«descargar»**.
 
-![Paso 6](/tutorial/tutorial_6_6.png)
+![Paso 6](../public/tutorial/tutorial_6_6.png)
 
 ¡Eso es todo! Ahora tienes tu certificado y la key necesaria para utilizarlos en la biblioteca.
 
